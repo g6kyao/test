@@ -1,5 +1,5 @@
 #!/bin/sh
 
-echo "test success"
+echo "test success!"
 exit 10
 
